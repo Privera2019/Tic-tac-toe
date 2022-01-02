@@ -1,0 +1,17 @@
+body{
+ margin: auto auto;
+}
+table{
+  border: 5px outset blue;
+  background-color:cyan;
+}
+div {  
+  width: 180px;
+  border: 15px solid purple;
+  padding: 50px;
+  margin: 20px;
+}
+h1{
+text-align:center;
+color:black;
+}
